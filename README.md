@@ -50,4 +50,4 @@ Rotating secrets is as simple as updating the the value associated with your sec
 Using this approach allows you to rotate the secrets through the BWS vault service and ensure that your code always has access to the latest secrets.
 
 #### Disclaimer: 
-I am not associated with Bitwarden and this my indipendent view and experience. Please do your own due diligence before implementing in production as I cannot be held liable for any damage caused as a result of using this code.
+I am not associated with Bitwarden and this my independent view and experience. Please do your own due diligence before implementing in production as I cannot be held liable for any damage caused as a result of using this code.
