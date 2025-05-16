@@ -37,6 +37,9 @@ from utils.bws_secrets import get_secret
 OPEN_API_KEY = get_secret("49c5c198-5078-44b7-abc8-42231a-cd30acc")
 ```
 
+<img width="1458" alt="image" src="https://github.com/user-attachments/assets/086b2358-a329-4893-bb31-992b1d991586" />
+
+
 #### Note:
 
 **49c5c198-5078-44b7-abc8-42231a-cd30acc** is the secret ID from the BWS Secret you want to import from your BWS Secrets Manager vault. 
